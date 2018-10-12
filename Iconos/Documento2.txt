@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Este documento es para probar lo del branchs
 
 Se me habia olvidado esta adicionar línea
+=======
+Este documento es para probar lo del branchs
+>>>>>>> 25399be3cc0e20e22d11b9c4a6e11dd42769d8dc
