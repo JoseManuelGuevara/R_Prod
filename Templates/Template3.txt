@@ -1,3 +1,0 @@
-Se adicionó el tercer template.
-Se quiere probar el branch,
-Se adicionó el branch1
